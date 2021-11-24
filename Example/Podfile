@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GitHubMyFirstNewProject_Tests' do
+  pod 'GitHubMyFirstNewProject', :path => '../'
+  
+  
+end
